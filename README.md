@@ -44,7 +44,7 @@ python predict_image.py test_images/dog1.jpeg
 
 ## 🔍 Sample Output
 
-![Output](screenshot1.png)
+![Output](Screenshot1.png)
 
-![Output](screenshot2.png)
+![Output](Screenshot2.png)
 
