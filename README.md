@@ -28,7 +28,6 @@ The model can distinguish between two classes: **Dog** 🐶 and **Cat** 🐱.
 - `labels.txt` → List of class labels (Dog, Cat).
 - `test_images/` → Folder containing test images.
 - `screenshot.png` → Output example screenshot.
-- `README.md` ← (this file )
 
 ---
 ## 🧪 How to Run
@@ -39,12 +38,28 @@ To test the model on any image, provide the image file path as an argument when 
 python predict_image.py <path_to_image>
 
 Example:
+
 python predict_image.py test_images/dog1.jpeg
 
+```
 
+
+----
 ## 🔍 Sample Output
 
 ![Output](Screenshot1.png)
 
 ![Output](Screenshot2.png)
+
+
+
+
+##💡 Notes
+
+
+The model was tested with additional images to improve accuracy.
+
+It gives fast, real-time predictions in the terminal.
+
+Entire project was completed locally using Anaconda (conda environment) and VS Code on Windows.
 
