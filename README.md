@@ -28,7 +28,7 @@ The model can distinguish between two classes: **Dog** 🐶 and **Cat** 🐱.
 - `labels.txt` → List of class labels (Dog, Cat).
 - `test_images/` → Folder containing test images.
 - `screenshot.png` → Output example screenshot.
-- `README.md` ← (this file 😊)
+- `README.md` ← (this file )
 
 ---
 ## 🧪 How to Run
@@ -44,5 +44,7 @@ python predict_image.py test_images/dog1.jpeg
 
 ## 🔍 Sample Output
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Output](screenshot1.png)
+
+![Output](screenshot2.png)
+
